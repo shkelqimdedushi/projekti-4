@@ -50,9 +50,9 @@ using namespace std;
         }
 
     else if( ora == 24 ){
-
+  
         ora=0;
-
+      
     }
 
     
